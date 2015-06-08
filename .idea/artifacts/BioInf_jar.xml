@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BioInf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BioInf_jar</output-path>
+    <root id="archive" name="BioInf.jar">
+      <element id="module-output" name="BioInf" />
+    </root>
+  </artifact>
+</component>
